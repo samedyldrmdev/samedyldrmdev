@@ -1,9 +1,9 @@
 ### Hi! Welcome to my github page. 👋
 
 I'm Samet Yıldırım. Mechanical Engineer. I started learning Python.
-print("I'm here to share all the projects I'm going to write from beginner to advanced and a lot of software related stuff!")
+I'm here to share all the projects I'm going to write from beginner to advanced and a lot of software related stuff!
 
-## Graduation
+## Graduati
 
 Mechanical Engineering |  [Beykent University](https://www.beykent.edu.tr/)
 
