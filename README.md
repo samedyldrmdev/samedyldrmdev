@@ -1,10 +1,15 @@
-- 👋 Hi, I’m Samet Yıldırım.
-- 👀 I’m interested in Python, machine learning and artificial intelligence.
-- 🌱 I’m currently learning Python. (Beginning)
-<!-- - 💞️ I’m looking to collaborate on ... -->
-- 📫 How to reach me : [linkedin.com](https://www.linkedin.com/in/samet-yildirim-3736a8168/)
+### Hi! Welcome to my github page. 👋
 
-<!---
-samettyldrm/samettyldrm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Samet Yıldırım. Mechanical Engineer. I started learning Python.
+
+## Graduation
+
+Mechanical Engineering |  [Beykent University](https://www.beykent.edu.tr/)
+
+## I'm currently working on 🔭
+
+Python!
+
+## Contact Me 📫
+
+[Instagram](https://www.instagram.com/baskomserbaki)
