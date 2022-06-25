@@ -19,4 +19,4 @@ Python!
 
 ## Contact Me 📫
 
-[E-mail](smtyldrm32@gmail.com)
+smtyldrm32@gmail.com
