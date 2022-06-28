@@ -1,6 +1,7 @@
 ### Hi! Welcome to my github page. 👋
 
-I'm Samet Yıldırım. Mechanical Engineer. I started learning Python.
+I'm Samet Yıldırım. Mechanical Engineer.  I started learning Python.
+
 I'm here to share all the [projects](https://github.com/samettyldrm/myprojects) I'm going to write from beginner to advanced and a lot of software related stuff!
 
 ## Graduation
@@ -9,8 +10,8 @@ Mechanical Engineering |  [Beykent University](https://www.beykent.edu.tr/)
 
 ## I'm currently working on 🔭
 
-Python!
-<img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width= 25 height= 25>
+Python, Machine Learning and Artifical Intelligence! 
+
 
 ## My Certificates
 
