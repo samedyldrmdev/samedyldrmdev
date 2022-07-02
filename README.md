@@ -2,6 +2,8 @@
 <h4 align="left">Mechanical Engineer. I started learning Python.
 I'm here to share all the projects I'm going to write from beginner to advanced and a lot of software related stuff!</h4>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=samettyldrm&label=Profile%20views&color=0e75b6&style=flat" alt="samettyldrm" /> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samettyldrm" alt="samettyldrm" /></a> </p>
 
 - 🌱 I’m currently **learning Machine Learning and Artifical Intelligence with Python!**
