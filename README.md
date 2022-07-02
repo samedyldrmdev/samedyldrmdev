@@ -16,7 +16,7 @@ I'm here to share all the projects I'm going to write from beginner to advanced 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/baskomiserbaki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="baskomiserbaki" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/samet-yildirim-3736a8168/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/samet-yildirim-3736a8168/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sametyldrm16/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sametyldrm16/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19316591" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19316591" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
