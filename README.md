@@ -1,11 +1,15 @@
 <h1 align="left">Hi 👋, I'm Samet</h1>
-<h4 align="left">Mechanical Engineer. I started learning Python. I'm here to share all the projects I'm going to write from beginner to advanced and a lot of software related stuff!</h3>
+<h4 align="left">Mechanical Engineer. I started learning Python.
+I'm here to share all the projects I'm going to write from beginner to advanced and a lot of software related stuff!</h4>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samettyldrm" alt="samettyldrm" /></a> </p>
+
+- 🌱 I’m currently **learning Machine Learning and Artifical Intelligence with Python!**
 
 - 👨‍💻 All of my projects are available at [https://github.com/samettyldrm/python-projects](https://github.com/samettyldrm/python-projects)
 
 - 📫 How to reach me **smtyldrm32@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
