@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Samet</h1>
-<h4 align="left">Mechanical Engineer. I started learning Python.
+<h4 align="left">I started learning Python.
 I'm here to share all the projects I'm going to write from beginner to advanced and a lot of software related stuff!</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samettyldrm&label=Profile%20views&color=0e75b6&style=flat" alt="samettyldrm" /> </p>
