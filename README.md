@@ -18,6 +18,8 @@ I'm here to share all the projects I'm going to write from beginner to advanced 
 
 [Yapay Zekaya İlk Adım - Global AI Hub](https://globalaihub.com/verify/?certificate=eyJ1c2VyLWlkIjoxMzIzNDMsImNvdXJzZS1pZCI6NTkyMDUsImNlcnQtaWQiOiI3MzA2NSJ9)
 
+[Makine Öğrenmesi 101 - Turkcell Geleceği Yazanlar](https://gelecegiyazanlar.turkcell.com.tr/kisi/belge/sametyldrm/Makine%20%C3%96%C4%9Frenmesi/101)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/baskomiserbaki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="baskomiserbaki" height="30" width="40" /></a>
