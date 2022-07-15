@@ -8,7 +8,7 @@ I'm here to share all the projects I'm going to write from beginner to advanced 
 
 - 🌱 I’m currently **learning Machine Learning and Artifical Intelligence with Python!**
 
-- 👨‍💻 All of my projects are available at [https://github.com/samettyldrm/python-projects](https://github.com/samettyldrm/python-projects)
+- 👨‍💻 All of my projects are available at [python project.](https://github.com/samettyldrm/python-projects)
 
 - 📫 How to reach me **smtyldrm32@gmail.com**
 
