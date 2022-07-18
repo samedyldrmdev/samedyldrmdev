@@ -20,6 +20,8 @@ I'm here to share all the projects I'm going to write from beginner to advanced 
 
 [Makine Öğrenmesi 101 - Turkcell Geleceği Yazanlar](https://gelecegiyazanlar.turkcell.com.tr/kisi/belge/sametyldrm/Makine%20%C3%96%C4%9Frenmesi/101)
 
+[Python: Yapay Zeka ve Veri Bilimi için Python Programlama](https://www.udemy.com/certificate/UC-b71ee0c3-0e74-4038-acc0-f805e550a993/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/baskomiserbaki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="baskomiserbaki" height="30" width="40" /></a>
