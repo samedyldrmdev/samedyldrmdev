@@ -18,6 +18,8 @@ I'm here to share all the projects I'm going to write from beginner to advanced 
 
 [Yapay Zekaya İlk Adım - Global AI Hub](https://globalaihub.com/verify/?certificate=eyJ1c2VyLWlkIjoxMzIzNDMsImNvdXJzZS1pZCI6NTkyMDUsImNlcnQtaWQiOiI3MzA2NSJ9)
 
+[Python for Machine Learning - Global AI Hub](https://globalaihub.com/certificate-share/eyJ1c2VyLWlkIjoxMzIzNDMsImNvdXJzZS1pZCI6MTEyODY0LCJjZXJ0LWlkIjoiMTEzMjYzIn0=)
+
 [Makine Öğrenmesi 101 - Turkcell Geleceği Yazanlar](https://gelecegiyazanlar.turkcell.com.tr/kisi/belge/sametyldrm/Makine%20%C3%96%C4%9Frenmesi/101)
 
 [Python: Yapay Zeka ve Veri Bilimi için Python Programlama](https://www.udemy.com/certificate/UC-b71ee0c3-0e74-4038-acc0-f805e550a993/)
