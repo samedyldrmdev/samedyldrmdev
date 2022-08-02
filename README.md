@@ -16,7 +16,7 @@ I'm here to share all the projects I'm going to write from beginner to advanced 
 
 [50+ Saat Tüm Yönleriyle Python 3 Programlama (2022)](https://www.udemy.com/certificate/UC-0164a592-9548-466b-a549-576d393353ab/)
 
-[Yapay Zekaya İlk Adım -  Global AI Hub](https://globalaihub.com/verify/?certificate=eyJ1c2VyLWlkIjoxMzIzNDMsImNvdXJzZS1pZCI6NTkyMDUsImNlcnQtaWQiOiI3MzA2NSJ9)
+[Yapay Zekaya İlk Adım - Global AI Hub](https://globalaihub.com/verify/?certificate=eyJ1c2VyLWlkIjoxMzIzNDMsImNvdXJzZS1pZCI6NTkyMDUsImNlcnQtaWQiOiI3MzA2NSJ9)
 
 [Python for Machine Learning - Global AI Hub](https://globalaihub.com/certificate-share/eyJ1c2VyLWlkIjoxMzIzNDMsImNvdXJzZS1pZCI6MTEyODY0LCJjZXJ0LWlkIjoiMTEzMjYzIn0=)
 
