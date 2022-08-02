@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Samet</h1>
+<h1 align="left">Hi 👋, I'm Samet!</h1>
 <h4 align="left">I started learning Python.
 I'm here to share all the projects I'm going to write from beginner to advanced and a lot of software related stuff!</h4>
 
