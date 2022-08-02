@@ -12,7 +12,7 @@ I'm here to share all the projects I'm going to write from beginner to advanced 
 
 - 📫 How to reach me **smtyldrm32@gmail.com**
 
-<h3 align="left">My Certificates:</h3>
+<h3 align="left">My Certificates:</h3 >
 
 [50+ Saat Tüm Yönleriyle Python 3 Programlama (2022)](https://www.udemy.com/certificate/UC-0164a592-9548-466b-a549-576d393353ab/)
 
