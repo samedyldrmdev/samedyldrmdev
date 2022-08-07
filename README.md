@@ -45,6 +45,9 @@ I'm here to share all the projects I'm going to write from beginner to advanced 
 
 [![GlobalAIHub](https://img.shields.io/badge/Global%20AI%20Hub-Introduction%20to%20Machine%20Learning-blue)](https://globalaihub.com/verify/?certificate=eyJ1c2VyLWlkIjoxMzIzNDMsImNvdXJzZS1pZCI6MTE0NDY1LCJjZXJ0LWlkIjoiMTE0Njk3In0=)
 
+[![GlobalAIHub](https://img.shields.io/badge/Global%20AI%20Hub-Introduction%20to%20Python-blue)](https://globalaihub.com/verify/?certificate=eyJ1c2VyLWlkIjoxMzIzNDMsImNvdXJzZS1pZCI6MTEwNTQ4LCJjZXJ0LWlkIjoiMTEwODkxIn0=)
+
+
 [![Turkcell](https://img.shields.io/badge/Turkcell%20Gelece%C4%9Fi%20Yazanlar-Makine%20%C3%96%C4%9Frenmesi%20101to%20Machine%20Learning-orange)](https://gelecegiyazanlar.turkcell.com.tr/kisi/belge/sametyldrm/Makine%20%C3%96%C4%9Frenmesi/101)
 
 [![Udemy](https://img.shields.io/badge/Udemy-Python%3A%20Yapay%20Zeka%20ve%20Veri%20Bilimi%20i%C3%A7in%20Python%20Programlama-yellowgreen)](https://www.udemy.com/certificate/UC-b71ee0c3-0e74-4038-acc0-f805e550a993/)
