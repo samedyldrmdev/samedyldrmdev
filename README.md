@@ -1,4 +1,4 @@
-<h1 align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi+👋,+I'm+Samet!;I'm+a+Python+Developer+Candidate.;Also+I+love+Artificial+Intelligence!" alt="Typing SVG" /></a></h1>
+<h1 align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi+👋,+I'm+Samet!;I'm+a+Python+Developer.;Also+I+love+Artificial+Intelligence!" alt="Typing SVG" /></a></h1>
 
 <h4 align="left">I started learning Python.
 I'm here to share all the projects I'm going to write from beginner to advanced and a lot of software related stuff!</h4>
