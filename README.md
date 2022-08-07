@@ -26,7 +26,7 @@ I'm here to share all the projects I'm going to write from beginner to advanced 
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
-<h3 align="left">Machine Learning & Artificial Intelligence:</h3>
+<h4 align="left">Machine Learning & Artificial Intelligence:</h4>
 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
