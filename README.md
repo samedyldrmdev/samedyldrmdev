@@ -1,30 +1,11 @@
-<h1 align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi+👋,+I'm+Samet!;I+love+Artificial+Intelligence!" alt="Typing SVG" /></a></h1>
+<h1 align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi+👋,+I'm+Samet!;I'm+a+Python+Developer+Candidate.;Also+I+love+Artificial+Intelligence!" alt="Typing SVG" /></a></h1>
+
 <h4 align="left">I started learning Python.
 I'm here to share all the projects I'm going to write from beginner to advanced and a lot of software related stuff!</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samettyldrm&label=Profile%20views&color=0e75b6&style=flat" alt="samettyldrm" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samettyldrm" alt="samettyldrm" /></a> </p>
-
-- 🌱 I’m currently **learning Machine Learning and Artifical Intelligence with Python!**
-
-- 👨‍💻 All of my projects are available at [python project.](https://github.com/samettyldrm/python-projects)
-
-- 📫 How to reach me **smtyldrm32@gmail.com**
-
-<h3 align="left">My Certificates:</h3>
-
-[50+ Saat Tüm Yönleriyle Python 3 Programlama (2022)](https://www.udemy.com/certificate/UC-0164a592-9548-466b-a549-576d393353ab/)
-
-[Yapay Zekaya İlk Adım - Global AI Hub](https://globalaihub.com/verify/?certificate=eyJ1c2VyLWlkIjoxMzIzNDMsImNvdXJzZS1pZCI6NTkyMDUsImNlcnQtaWQiOiI3MzA2NSJ9)
-
-[Python for Machine Learning - Global AI Hub](https://globalaihub.com/verify/?certificate=eyJ1c2VyLWlkIjoxMzIzNDMsImNvdXJzZS1pZCI6MTEyODY0LCJjZXJ0LWlkIjoiMTEzMjYzIn0=)
-
-[Introduction to Machine Learning - Global AI Hub](https://globalaihub.com/verify/?certificate=eyJ1c2VyLWlkIjoxMzIzNDMsImNvdXJzZS1pZCI6MTE0NDY1LCJjZXJ0LWlkIjoiMTE0Njk3In0=)
-
-[Makine Öğrenmesi 101 - Turkcell Geleceği Yazanlar](https://gelecegiyazanlar.turkcell.com.tr/kisi/belge/sametyldrm/Makine%20%C3%96%C4%9Frenmesi/101)
-
-[Python: Yapay Zeka ve Veri Bilimi için Python Programlama](https://www.udemy.com/certificate/UC-b71ee0c3-0e74-4038-acc0-f805e550a993/)
 
 <h3 align="left">Connect with me:</h3>
 
@@ -34,6 +15,7 @@ I'm here to share all the projects I'm going to write from beginner to advanced 
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/samettyldrm)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@samettyldrm)
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/samettyldrm)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smtyldrm32@gmail.com)
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -53,10 +35,25 @@ I'm here to share all the projects I'm going to write from beginner to advanced 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
+<h3 align="left">My Certificates:</h3>
+
+[![Udemy](https://img.shields.io/badge/Udemy-50%2B%20Saat%20T%C3%BCm%20Y%C3%B6nleriyle%20Python%203%20Programlama%20(2022)-yellowgreen)](https://www.udemy.com/certificate/UC-0164a592-9548-466b-a549-576d393353ab/)
+
+[![GlobalAIHub](https://img.shields.io/badge/Global%20AI%20Hub-Yapay%20Zekaya%20%C4%B0lk%20Ad%C4%B1m-blue)](https://globalaihub.com/verify/?certificate=eyJ1c2VyLWlkIjoxMzIzNDMsImNvdXJzZS1pZCI6NTkyMDUsImNlcnQtaWQiOiI3MzA2NSJ9)
+
+[![GlobalAIHub](https://img.shields.io/badge/Global%20AI%20Hub-Python%20for%20Machine%20Learning-blue)](https://globalaihub.com/verify/?certificate=eyJ1c2VyLWlkIjoxMzIzNDMsImNvdXJzZS1pZCI6MTEyODY0LCJjZXJ0LWlkIjoiMTEzMjYzIn0=)
+
+[![GlobalAIHub](https://img.shields.io/badge/Global%20AI%20Hub-Introduction%20to%20Machine%20Learning-blue)](https://globalaihub.com/verify/?certificate=eyJ1c2VyLWlkIjoxMzIzNDMsImNvdXJzZS1pZCI6MTE0NDY1LCJjZXJ0LWlkIjoiMTE0Njk3In0=)
+
+[![Turkcell](https://img.shields.io/badge/Turkcell%20Gelece%C4%9Fi%20Yazanlar-Makine%20%C3%96%C4%9Frenmesi%20101to%20Machine%20Learning-orange)](https://gelecegiyazanlar.turkcell.com.tr/kisi/belge/sametyldrm/Makine%20%C3%96%C4%9Frenmesi/101)
+
+[![Udemy](https://img.shields.io/badge/Udemy-Python%3A%20Yapay%20Zeka%20ve%20Veri%20Bilimi%20i%C3%A7in%20Python%20Programlama-yellowgreen)](https://www.udemy.com/certificate/UC-b71ee0c3-0e74-4038-acc0-f805e550a993/)
+
+
 <h3 align="left">Github Stats:</h3>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samettyldrm&show_icons=true&theme=dark&locale=en" alt="samettyldrm" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samettyldrm&theme=dark" alt="samettyldrm" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samettyldrm&theme=dark&show_icons=true&locale=en&layout=compact" alt="samettyldrm" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samettyldrm&theme=dark&show_icons=true&locale=en&layout=compact" alt="samettyldrm" /></p>  
 
 
