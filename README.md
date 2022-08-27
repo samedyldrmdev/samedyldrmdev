@@ -47,10 +47,11 @@ I'm here to share all the projects I'm going to write from beginner to advanced 
 
 [![GlobalAIHub](https://img.shields.io/badge/Global%20AI%20Hub-Python%20for%20Machine%20Learning-blue)](https://globalaihub.com/verify/?certificate=eyJ1c2VyLWlkIjoxMzIzNDMsImNvdXJzZS1pZCI6MTEyODY0LCJjZXJ0LWlkIjoiMTEzMjYzIn0=)
 
+[![GlobalAIHub](https://img.shields.io/badge/Global%20AI%20Hub-Makine%20Öğrenmesine%20Giriş-blue)](https://globalaihub.com/verify/?ref=product&certificate=eyJ1c2VyLWlkIjoxMzIzNDMsImNvdXJzZS1pZCI6NzY1ODUsImNlcnQtaWQiOiI3NjgzOCJ9)
+
 [![GlobalAIHub](https://img.shields.io/badge/Global%20AI%20Hub-Introduction%20to%20Machine%20Learning-blue)](https://globalaihub.com/verify/?certificate=eyJ1c2VyLWlkIjoxMzIzNDMsImNvdXJzZS1pZCI6MTE0NDY1LCJjZXJ0LWlkIjoiMTE0Njk3In0=)
 
 [![GlobalAIHub](https://img.shields.io/badge/Global%20AI%20Hub-Introduction%20to%20Python-blue)](https://globalaihub.com/verify/?certificate=eyJ1c2VyLWlkIjoxMzIzNDMsImNvdXJzZS1pZCI6MTEwNTQ4LCJjZXJ0LWlkIjoiMTEwODkxIn0=)
-
 
 [![Turkcell](https://img.shields.io/badge/Turkcell%20Gelece%C4%9Fi%20Yazanlar-Makine%20%C3%96%C4%9Frenmesi%20101to%20Machine%20Learning-orange)](https://gelecegiyazanlar.turkcell.com.tr/kisi/belge/sametyldrm/Makine%20%C3%96%C4%9Frenmesi/101)
 
