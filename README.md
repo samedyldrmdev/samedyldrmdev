@@ -1,7 +1,7 @@
 <h1 align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi+👋,+I'm+Samet!;I'm+a+Python+Developer.;Also+I+love+Artificial+Intelligence!" alt="Typing SVG" /></a></h1>
 
 <h4 align="left">I started learning Python. <br> Currently, I'm learning HTML and CSS for Front-End.
-<br>I'm here to share all the projects I'm going to write from beginner to advanced and a lot of software related stuff!</h4>
+<br>I'm here to share all the projects I'm going to develop from beginner to advanced and a lot of software related stuff!</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samettyldrm&label=Profile%20views&color=0e75b6&style=flat" alt="samettyldrm" /> </p>
 
