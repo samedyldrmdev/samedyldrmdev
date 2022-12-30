@@ -17,19 +17,18 @@ I'm here to share all the projects I'm going to write from beginner to advanced 
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/samettyldrm)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smtyldrm32@gmail.com)
 
-<h3 align="left">Skills, Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
-<h4 align="left">Machine Learning & Artificial Intelligence:</h4>
+<h5 align="left"><i>Machine Learning & Artificial Intelligence:</i></h4>
 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -38,9 +37,19 @@ I'm here to share all the projects I'm going to write from beginner to advanced 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
+<h3 align="left">Other Skills:</h3>
+
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+
 <h3 align="left">My Certificates:</h3>
 
 [![Udemy](https://img.shields.io/badge/Udemy-50%2B%20Saat%20T%C3%BCm%20Y%C3%B6nleriyle%20Python%203%20Programlama%20(2022)-yellowgreen)](https://www.udemy.com/certificate/UC-0164a592-9548-466b-a549-576d393353ab/)
+
+[![GlobalAIHub](https://img.shields.io/badge/Global%20AI%20Hub-AI%20Summer%20Camp%20Participant-red)](https://globalaihub.com/certificate-share/eyJ1c2VyLWlkIjoxMzIzNDMsImNvdXJzZS1pZCI6MTE1NTExLCJjZXJ0LWlkIjoiMTE1NTQzIn0=)
+
+[![GlobalAIHub](https://img.shields.io/badge/Global%20AI%20Hub-Mentor%20at%20KOÇ%20Holding%20Deep%20Learning%20Bootcamp-red)](https://globalaihub.com/certificate-share/eyJ1c2VyLWlkIjoxMzIzNDMsImNvdXJzZS1pZCI6MTE1NTExLCJjZXJ0LWlkIjoiMTE1NTQzIn0=)
 
 [![GlobalAIHub](https://img.shields.io/badge/Global%20AI%20Hub-Yapay%20Zekaya%20%C4%B0lk%20Ad%C4%B1m-blue)](https://globalaihub.com/verify/?certificate=eyJ1c2VyLWlkIjoxMzIzNDMsImNvdXJzZS1pZCI6NTkyMDUsImNlcnQtaWQiOiI3MzA2NSJ9)
 
