@@ -1,6 +1,6 @@
 <h1 align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi+👋,+I'm+Samet!;I'm+a+Python+Developer.;I'm+also+interested+in+Front-End." alt="Typing SVG" /></a></h1>
 
-<h4 align="left">I'm learning HTML, CSS and Javascript right now for Front-End. <br> I developed myself in the field of Artificial Intelligence and Machine Learning with Python.
+<h4 align="left">I'm learning HTML, CSS, Javascript and React right now for Front-End. <br> I developed myself in the field of Artificial Intelligence and Machine Learning with Python.
 <br>I'm here to share all the projects I'm going to develop from beginner to advanced and a lot of software related stuff!</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samettyldrm&label=Profile%20views&color=0e75b6&style=flat" alt="samettyldrm" /> </p>
