@@ -1,4 +1,4 @@
-<h1 align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi+👋,+I'm+Samet!;I'm+a+Front-End Developer." alt="Typing SVG" /></a></h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=78B5F7&width=435&lines=Hi%2C+I'm+Samet!+;I'm+a+Front-End+Developer.)](https://git.io/typing-svg)
 
 <h4 align="left">I'm learning HTML, CSS, Javascript and React right now for Front-End. <br> I developed myself in the field of Artificial Intelligence and Machine Learning with Python.
 <br>I'm here to share all the projects I'm going to develop from beginner to advanced and a lot of software related stuff!</h4>
