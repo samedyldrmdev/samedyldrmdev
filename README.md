@@ -18,7 +18,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smtyldrm32@gmail.com)
 
 <h3 align="left">Languages and Tools:</h3>
-<h4 align="left">Front-End:</h4>
+<h4 align="left"><i>Front-End:</i></h4>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
