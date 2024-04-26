@@ -79,8 +79,8 @@
 
 <h3 align="left">Github Stats:</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asamedyldrm&show_icons=true&theme=dark&locale=en" alt="asamedyldrm" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asamedyldrm&theme=dark" alt="asamedyldrm" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asamedyldrm&theme=dark&show_icons=true&locale=en&layout=compact" alt="asamedyldrm" /></p>  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samedyldrmdev&show_icons=true&theme=dark&locale=en" alt="samedyldrmdev" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samedyldrmdev&theme=dark" alt="samedyldrmdev" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samedyldrmdev&theme=dark&show_icons=true&locale=en&layout=compact" alt="samedyldrmdev" /></p>  
 
 
