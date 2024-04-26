@@ -3,14 +3,14 @@
 <h4 align="left">I'm learning HTML, CSS, Javascript and React right now for Front-End. <br> I developed myself in the field of Artificial Intelligence and Machine Learning with Python.
 <br>I'm here to share all the projects I'm going to develop from beginner to advanced and a lot of software related stuff!</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samettyldrm&label=Profile%20views&color=0e75b6&style=flat" alt="samettyldrm" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=samedyldrmdev&label=Profile%20views&color=0e75b6&style=flat" alt="samedyldrmdev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samettyldrm" alt="samettyldrm" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samedyldrmdev" alt="samedyldrmdev" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/baskomiserbaki)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samettyldrm)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samedyldrm)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19316591/samet-y%c4%b1ld%c4%b1r%c4%b1m)
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/samettyldrm)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@samettyldrm)
